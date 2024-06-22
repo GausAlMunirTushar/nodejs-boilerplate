@@ -1,0 +1,26 @@
+name: Feature Request
+description: 'Feature Request Template'
+title: 'Enter title here'
+labels: feature
+assignees: ''
+body:
+  - type: markdown
+    attributes:
+      value: 
+        - '#### Feature name'
+        - 'Please provide a clear and concise description of the feature request.'
+        - ''
+        - '#### Current Situation'
+        - 'Describe the current situation before this feature is implemented.'
+        - ''
+        - '#### Feature Description'
+        - 'Describe the feature and how it should behave.'
+        - ''
+        - '#### Proposed Solution'
+        - 'Describe the solution you''d like to see implemented.'
+        - ''
+        - '#### Additional Context/Screenshots (Optional)'
+        - 'Add any other context or screenshots about the feature request here.'
+        - ''
+        - '#### Acceptance Criteria'
+        - 'Please provide a list of acceptance criteria for this feature.'
